@@ -140,75 +140,14 @@
  p.text{
     text-align: center;
     font-family: 'Baloo 2', cursive;
-    
    
 }
 .about-us{
 text-align: center;
 font-family: 'Bree Serif', serif;
 font-size: 2.9rem;
-margin-top: 10px;
-
-}
-.about-p{
-    text-align: center;
-    font-family: 'Baloo 2', cursive;
-    background-color: #FFEBCD;
-}
-#sponser{
-    display: flex;
-   
-}
-div img{
-    height: 100%;
-    width: 100%;
-    border-radius: 40px;
-
-}
-.box1{
-  margin:10px;
-  }
-#contact-box{
-    display: flex;
-   justify-content:center;
-    align-items: center;
-    padding-bottom: 34px;
-    width: 100%;
-    background-color: burlywood;
-    
-}
-#contact-box label{
-    margin-right: 400px;
-    width: 100%;
-
-    font-size: 2.1rem;
-    font-family: 'Bree Serif', serif;
-   
-}
-#contact-box input{
-  
-   width: 100%;
-   padding: 20px;
-    font-size: 1.1rem;
-    font-weight: bold;
-    border-radius: 2.3px;
-}
-#contact-box button{
-    font-size: 2.2rem;
-    font-weight: 400;
-
-}
-#contact-box button:hover{
-    background-color: brown;
-}
-.footer{
-    background-color: black;
-    color: aliceblue;
-    padding: 20px 20px;
-    text-align: center;
-    
 }
 
-
+}
 
 
